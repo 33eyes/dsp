@@ -20,7 +20,17 @@ Here's a list of items with which you should be familiar:
 
 Make a cheat sheet for yourself: a list of at least **ten** commands and what they do.  (Use the 8 items above and add a couple of your own.)  
 
-> > REPLACE THIS TEXT WITH YOUR RESPONSE
+> > * `pwd`
+> > * `mkdir my_directory`
+> > * `rmdir my_directory # if my_directory is empty`
+> > or `rm -R my_directory # if my_directory is not empty`
+> > * `touch my_file.txt`
+> > * `rm my_file.txt`
+> > * `mv my_file.txt my_file2.txt`
+> > * `ls .?*`
+> > * `cp my_dir/my_file.txt another_dir`
+> > * `chmod 755 my_script.sh # sets permissions to read/write/execute for owner, and read/execute for everyone else`
+> > * `echo $PATH # print to screen the contents of $PATH variable` 
 
 ---
 
