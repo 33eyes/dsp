@@ -71,7 +71,9 @@ Explore these other [ls options](http://www.techonthenet.com/unix/basic/ls.php) 
 
 What does `xargs` do? Give an example of how to use it.
 
-> > REPLACE THIS TEXT WITH YOUR RESPONSE
+> > `xargs` reads items from standard input, separated by blanks by default, and executes a command once for each item read.  
+> > Example:  
+> > `echo "new_file.txt another_file.txt" | xargs touch`
 
  
 
