@@ -45,13 +45,13 @@ What do the following commands do:
 `ls -t`  
 `ls -Glp`  
 
-> > `ls` lists the contents of current directory
-> > `ls -a` lists all contents of the current directory, including hidden files
-> > `ls -l` lists directory contents in long format, with file permissions
-> > `ls -lh` same as with -l flag, but with readable file size
-> > `ls -lah` lists all of the current directory's contents, in long format and with readable file size
-> > `ls -t` lists directory contents sorted by time
-> > `ls -Glp` lists directory contents in long format, without group names, and with a slash to indicate directories
+> > `ls` lists the contents of current directory  
+> > `ls -a` lists all contents of the current directory, including hidden files  
+> > `ls -l` lists directory contents in long format, with file permissions  
+> > `ls -lh` same as with -l flag, but with readable file size  
+> > `ls -lah` lists all of the current directory's contents, in long format and with readable file size  
+> > `ls -t` lists directory contents sorted by time  
+> > `ls -Glp` lists directory contents in long format, without group names, and with a slash to indicate directories  
 
 ---
 
